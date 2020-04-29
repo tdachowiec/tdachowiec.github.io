@@ -5,7 +5,7 @@ background-color: #ffffff;
 }
 h1
 {
-font-family: 'Roboto', sans-serif;
+font-family: 'Manrope', sans-serif;
     margin-left: 110px;
     margin-right: auto;
     font-size: 65px;
@@ -14,6 +14,7 @@ font-family: 'Roboto', sans-serif;
 
 #logo
 {
+    font-family: 'Manrope', sans-serif;
     float: left;
     margin-top: auto;
     vertical-align: top;
@@ -67,8 +68,9 @@ nav
 }
 a.logolink
 {
+    font-family: 'Manrope', sans-serif;
     text-decoration:none;
-    color: #ffffff;
+    color: #303030;
 }
 
 .naglowek
