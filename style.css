@@ -1,0 +1,109 @@
+body
+{
+    color: #303030;
+background-color: #ffffff;
+}
+h1
+{
+font-family: 'Roboto', sans-serif;
+    margin-left: 110px;
+    margin-right: auto;
+    font-size: 65px;
+     vertical-align: top;
+}
+
+#logo
+{
+    float: left;
+    margin-top: auto;
+    vertical-align: top;
+    top: auto;
+    max-height: none;
+    min-height: inherit;
+    padding: inherit;
+    
+}
+ 
+
+nav
+{
+    background-color: #606468;
+    text-align: center;     
+    font-family: 'Montserrat', sans-serif;
+}
+
+.menu
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    font-size: 18px;
+    min-height: 38px;
+    line-height: 200%;
+}
+
+.menu > li
+{
+    display: inline-block;   
+    padding-left: 20px;
+    padding-right: 20px;
+    border-right: 1px dashed #c1c3c5;
+}
+.menu > li:first-child
+{
+    border-left: 1px dashed #c1c3c5;
+}
+ 
+.menu a
+{
+    text-decoration:none;
+    color: #ffffff;
+    
+}
+.menu a:hover
+{
+    color: #c1c3c5;
+    
+}
+a.logolink
+{
+    text-decoration:none;
+    color: #ffffff;
+}
+
+.naglowek
+{
+    font-size: 60px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 50px;
+}
+
+#stopka
+{
+    font-size: 20px;
+    color: fff;
+    margin-top: 467px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+#zdj
+{
+    
+}
+
+.kontakt
+{  
+  font-size: 50px; 
+  color: #cccccc;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a.kontaktlink
+{
+    text-decoration:none;
+    color: #cccccc;
+}
+.kontakt a:hover
+{
+    color: #ffffff;  
+}
