@@ -75,9 +75,10 @@ a.logolink
 
 .naglowek
 {
-    font-size: 60px;
-    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    font-family:'Roboto', sans-serif;
     margin-top: 50px;
+    text-align: center
 }
 
 #stopka
@@ -96,16 +97,16 @@ a.logolink
 .kontakt
 {  
   font-size: 50px; 
-  color: #cccccc;
+  color: #363534;
   font-family: 'Open Sans', sans-serif;
 }
 
 a.kontaktlink
 {
     text-decoration:none;
-    color: #cccccc;
+    color: #363534;
 }
 .kontakt a:hover
 {
-    color: #ffffff;  
+    color: #cccccc;  
 }
