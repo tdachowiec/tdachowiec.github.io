@@ -110,3 +110,17 @@ a.kontaktlink
 {
     color: #cccccc;  
 }
+h2
+{
+    font-size: 40px;
+    font-family:'Roboto', sans-serif;
+    margin-top: 50px;
+    text-align: center
+}
+.thanks
+{
+     font-size: 25px;
+    font-family:'Roboto', sans-serif;
+    margin-top: 50px;
+    text-align: center
+}
